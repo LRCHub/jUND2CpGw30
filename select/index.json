@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ばいばい",
+  "base_artist": "chuna",
+  "createdAt": "2025-12-24T09:32:10.830228Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ばいばい",
+      "artist": "Shiggy Jr.",
+      "has_synced": true,
+      "path": "select/01_ばいばい_Shiggy_Jr..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ばいばい、ノスタルジーカ",
+      "artist": "Neru",
+      "has_synced": false,
+      "path": "select/02_ばいばい、ノスタルジーカ_Neru.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ばいばい､ノスタルジーカ",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/03_ばいばい、ノスタルジーカ_Neru.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ばいばい",
+      "artist": "chuna",
+      "has_synced": false,
+      "path": "select/pl_01_ばいばい_chuna.txt"
+    }
+  ]
+}
